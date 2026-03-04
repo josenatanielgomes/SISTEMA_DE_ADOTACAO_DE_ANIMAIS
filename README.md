@@ -3,10 +3,6 @@ Projeto Final Etapa 7 — ORM com SQLAlchemy e PostgreSQL
 
 ## 📂 Estrutura do Repositório
 
-
-# SISTEMA-DE-ADOTACAO-DE-ANIMAIS  
-Projeto Final Etapa 7 — ORM acessando o banco criado.
-
 ## 📌 Objetivo
 Este projeto conecta uma aplicação Python ao banco PostgreSQL criado nas etapas anteriores.  
 Utiliza o **ORM SQLAlchemy** para mapear tabelas em classes e executar operações no banco sem precisar escrever SQL manual.  
