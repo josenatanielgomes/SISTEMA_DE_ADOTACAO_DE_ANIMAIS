@@ -20,7 +20,7 @@ SISTEMA-DE-ADOTACAO-DE-ANIMAIS/
 │   ├── models.py         # Classes ORM (Animal, Adotante, Reserva, Adocao, EstrategiaTaxa)
 │   └── main.py           # Script principal com CRUD e relatórios
 │
-├── sql/                  # Scripts SQL
+├── sql/                  # Scripts SQL atual e anteriores
 │   └── script.sql        # Script DDL/DML resumido (CREATE TABLE + INSERTs)
 │
 ├── docs/                 # Documentação e evidências
